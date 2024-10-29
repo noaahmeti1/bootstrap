@@ -1,0 +1,33 @@
+.foto{
+    height: 100px;
+    width: 600px;
+    display: flex;
+    justify-content: space-between;
+    opacity: 0.5;
+}
+.foto1{
+opacity:0.5;
+}
+
+.foto2{
+    opacity:0.5;
+    }
+    
+.foto1:hover{
+  opacity:1;
+  }
+        
+ .foto2:hover{
+  opacity:1;
+ }
+  
+  .grad{
+    background-image: linear-gradient(to right,red,blue );
+    height: 100px;
+    width: 100px;
+  }
+  .grad1{
+    background-image: radius-gradient(to right,red,blue );
+    height: 100px;
+    width: 100px;
+  }

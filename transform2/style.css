@@ -1,0 +1,7 @@
+.red{
+transition: width, height 5s;
+transition-delay: 1s ;
+width: 200px;
+height: 200px;
+background-color: red;
+}

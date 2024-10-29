@@ -1,0 +1,58 @@
+.grad{
+    width: 150px;
+    height: 200px;
+background-color: lightblue;
+color: white;
+}
+.ok1{
+    width: 150px;
+    height: 200px;
+    background-color: lightblue;
+    color: white;
+}
+
+.ok2{
+    width: 150px;
+    height: 200px;
+    background-color: lightblue;
+    color: white;
+}
+
+.ok3{
+    width: 150px;
+    height: 200px;
+    background-color: lightblue;
+    color: white;
+}
+
+.ok4{
+    width: 150px;
+    height: 200px;
+    background-color: lightblue;
+    color: white;
+}
+
+
+
+.grad:hover {
+   scale: 1.3;
+}
+.ok1:hover{
+   scale: 1.3;
+}
+
+.ok2:hover{
+    scale: 1.3;
+}
+
+.ok3:hover{
+   scale: 1.3;
+}
+
+.ok4:hover{
+   scale: 1.3;
+}
+.kejt{
+display: flex;
+justify-content: space-between;
+}

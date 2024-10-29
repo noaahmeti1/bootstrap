@@ -1,0 +1,44 @@
+.stveta{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+.ok{
+    display: flex;
+    width: 20%;
+   
+}
+   .active{
+    width: 22%;
+    text-decoration: none;
+    color: black;
+   }
+
+   .ok2{
+    width:25%;
+    text-decoration: none;
+    color: black;
+   }
+   .ok3{
+    width: 20%;
+    text-decoration: none;
+    color: black;
+   }
+   .paragraf{
+    color: grey;
+   }
+  .tia{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    
+  }
+  .tiatia{
+    display: flex;
+    align-items: center;
+    
+  }
+  .kejta{
+display: flex;
+justify-content: space-evenly;
+  }
